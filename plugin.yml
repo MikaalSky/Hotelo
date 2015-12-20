@@ -1,0 +1,9 @@
+name: Test
+main: io.lokiraut.Hotelo.Hotelo
+version: 1.0
+commands:
+   basic:
+      description: Testing
+      usage: /<hotelo
+      permission: hotelo.lokio
+      permission-message: You don't have <permission>
